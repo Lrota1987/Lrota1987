@@ -5,7 +5,7 @@
   <h2 align="center">I'm studying web development.</h2>
 </div>
 <div>
-- :flight_departure: I'm starting the journey, as I'm currently studying an advanced course in Web Development.</br>
+- :flight_departure: I'm starting the journey, I have just completed an advanced course in Web Development. :star2: </br>
 - 🌱 As a student, I'm learning as much as possible, but I hope to learn even more as a professional!</br>
 - :speech_balloon: If you need to get in touch with me, feel free to do so!</br>
 - 📫 How to reach me lucianoromero@ucm.es</br>
